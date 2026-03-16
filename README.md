@@ -143,8 +143,10 @@ Fraud Shield directly supports financial inclusion by making digital payments **
 
 ---
 
-## Team
+## Team Name
+Babus
 
+Members: Tleubay Almaz + Tsetsen-Oyun Zolbayar
 Built for **V Hack 2026** — Universiti Sains Malaysia (USM)
 
 ---
