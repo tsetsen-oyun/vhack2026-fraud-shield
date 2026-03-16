@@ -6,7 +6,7 @@
 
 ## The Problem
 
-Digital payment adoption in ASEAN is skyrocketing through Super Apps — but millions of new users are **unbanked or have low digital literacy**. For a gig worker in the Philippines or a rural merchant in Thailand, losing their digital wallet balance to a single fraudulent transaction is catastrophic.
+Digital payment adoption in ASEAN is skyrocketing through Super Apps - but millions of new users are **unbanked or have low digital literacy**. For a gig worker in the Philippines or a rural merchant in Thailand, losing their digital wallet balance to a single fraudulent transaction is catastrophic.
 
 Conventional rule-based fraud detection systems fail to catch sophisticated or evolving fraud patterns. There is an urgent need for AI that can **detect anomalies in real-time** without disrupting legitimate users.
 
