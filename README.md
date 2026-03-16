@@ -1,10 +1,10 @@
-# 🛡️ Fraud Shield — Real-Time Transaction Protection for the Unbanked
+# Fraud Shield — Real-Time Transaction Protection for the Unbanked
 
 > **V Hack 2026 · Case Study 2 · SDG 8: Decent Work & Economic Growth (Target 8.10)**
 
 ---
 
-## 🌏 The Problem
+## The Problem
 
 Digital payment adoption in ASEAN is skyrocketing through Super Apps — but millions of new users are **unbanked or have low digital literacy**. For a gig worker in the Philippines or a rural merchant in Thailand, losing their digital wallet balance to a single fraudulent transaction is catastrophic.
 
@@ -12,7 +12,7 @@ Conventional rule-based fraud detection systems fail to catch sophisticated or e
 
 ---
 
-## 💡 Our Solution
+## Our Solution
 
 **Fraud Shield** is a real-time AI-powered fraud detection system that:
 
@@ -23,7 +23,7 @@ Conventional rule-based fraud detection systems fail to catch sophisticated or e
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 User Transaction Input
@@ -51,7 +51,7 @@ User Transaction Input
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric    | Score |
 |-----------|-------|
@@ -63,7 +63,7 @@ User Transaction Input
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -75,7 +75,7 @@ User Transaction Input
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ### 1. Clone the repository
 ```bash
@@ -106,7 +106,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 🎮 Demo Scenarios
+## Demo Scenarios
 
 | Scenario | Expected Result |
 |----------|----------------|
@@ -118,7 +118,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 vhack2026-fraud-shield/
@@ -133,7 +133,7 @@ vhack2026-fraud-shield/
 
 ---
 
-## 🎯 SDG Alignment
+## SDG Alignment
 
 **SDG 8 — Decent Work and Economic Growth (Target 8.10)**
 
@@ -143,13 +143,13 @@ Fraud Shield directly supports financial inclusion by making digital payments **
 
 ---
 
-## 👥 Team
+## Team
 
 Built for **V Hack 2026** — Universiti Sains Malaysia (USM)
 
 ---
 
-## 📚 References
+## References
 
 - [Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - [IEEE-CIS Fraud Detection — Kaggle](https://www.kaggle.com/c/ieee-fraud-detection)
