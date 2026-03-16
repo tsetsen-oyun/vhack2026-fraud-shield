@@ -17,7 +17,7 @@ Conventional rule-based fraud detection systems fail to catch sophisticated or e
 **Fraud Shield** is a real-time AI-powered fraud detection system that:
 
 - Analyzes transaction behavior and scores each transaction in milliseconds
-- Outputs one of three decisions: ✅ **APPROVED**, ⚠️ **FLAGGED**, or 🚫 **BLOCKED**
+- Outputs one of three decisions: **APPROVED**, **FLAGGED**, or **BLOCKED**
 - Combines ML-based anomaly scoring with configurable business rules
 - Is designed specifically for unbanked ASEAN users with a simple, clear interface
 
